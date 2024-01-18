@@ -1,4 +1,4 @@
-# Sergio Virgen
+# Sergio Virgen Larios
 
 sergiov@uw.edu
 
