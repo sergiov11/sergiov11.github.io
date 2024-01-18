@@ -43,4 +43,6 @@ Columbia Basin College - Pasco, WA
 ### Guessing Game:
 **Duties:** Developed a Java-based game that leveraged the randoms class, enabling users to interact with the computer and try to guess a number,
 ### Carnival Cruise App Redesign:
-**Duties:** Worked with a group of 5 people to research and completly redesign the UI for the Carnival Cruise companion app. This included making it an interactive prototype over the course of a 3-week period using Figma. 
+**Duties:** Worked with a group of 5 people to research and completly redesign the UI for the Carnival Cruise companion app. This included making it an interactive prototype over the course of a 3-week period using Figma.
+
+![University of Washington](https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/1200px-University_of_Washington_seal.svg.png)
